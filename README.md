@@ -78,7 +78,8 @@ Bu proje, yurt sakinlerinin bakım ve tamir ihtiyaçlarını kolayca bildirebile
 ## 📸 Ekran Görüntüleri ve Tanıtım Videosu
 
 📷 Ekran Görüntüleri (eklenecek):  
-- Kayıt Sayfası (`register.php`)  
+-  ![Kayıt Sayfası](pictures/Ekran%20görüntüsü%202025-06-15%20201624.png)
+
 - Giriş Sayfası (`login.php`)  
 - Talep Yönetim Paneli (`index.php`)
 
