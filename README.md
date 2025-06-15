@@ -90,7 +90,7 @@ Talep Düzenleme Sayfası:
 ![Talep Düzenle](pictures/Ekran%20görüntüsü%202025-06-15%20201747.png)
 
 🎬 Tanıtım Videosu:  
-- YouTube veya Google Drive bağlantısı eklenecektir.
+- https://www.youtube.com/watch?v=igWhPkuX3ig
 
 ---
 
